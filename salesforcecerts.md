@@ -8,13 +8,23 @@ description: >-
 
 ## 
 
-Note: The presentation I made at the Detroit Salesforce User group can be found at the [Google slide link](https://docs.google.com/presentation/d/1NwILrHrHokodJb7YHCas0liQL3nkdt7loRjmgx1v3xI/edit?usp=sharing) but please keep in mind that this presentation has not been updated since Feb 18th, 2021. For the latest info please read the following blog post. Questions and Suggestions? Email me at [jay@jayonsoftware.com](mailto:jay@jayonsoftware.com)
+Note: The presentation I made at the Detroit Salesforce User group can be found at the [Google slide link](https://docs.google.com/presentation/d/1NwILrHrHokodJb7YHCas0liQL3nkdt7loRjmgx1v3xI/edit?usp=sharing) but please keep in mind that this presentation has not been updated since Feb 18th, 2021. For the latest info please read the following post. Questions and Suggestions? Email me at [jay@jayonsoftware.com](mailto:jay@jayonsoftware.com)
 
 This page will be updated every few weeks, if you want to be notified please signup by clicking [here](http://bit.ly/3bgYioH)
 
 **Background**
 
 I am taking four months from work \(March, April, May, and June of 2020\) to study and write multiple Salesforce-related certifications. In this blog post, I will write about my experience.
+
+**Topics**
+
+* About Me
+* The economic argument to why I am taking time off from work to study
+* Why Salesforce Certifications
+* Various Salesforce Certifications
+* The correct way of studying for Salesforce Certifications
+* Studying for Salesforce Certifications Cheap
+* Tools I use to study
 
 **About Me**
 
@@ -28,14 +38,7 @@ Jay Janarthanan
 * I have zero SF certification \(I had a few and let it expire\)
 * Currently Unemployed \(But I am not looking for a Job\)
 
-**Topics**
-
-* The economic argument to why I am taking time off from work to study
-* Why Salesforce Certifications
-* Various Salesforce Certifications
-* The correct way of studying for Salesforce Certifications
-* Studying for Salesforce Certifications Cheap
-* Tools I use to study
+\*\*\*\*
 
 **The economic argument to why I am taking time off from work to study**
 

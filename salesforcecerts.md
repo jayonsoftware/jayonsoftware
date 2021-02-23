@@ -6,8 +6,6 @@ description: >-
 
 # Salesforce Certs
 
-## 
-
 Note: The presentation I made at the Detroit Salesforce User group can be found at the [Google slide link](https://docs.google.com/presentation/d/1NwILrHrHokodJb7YHCas0liQL3nkdt7loRjmgx1v3xI/edit?usp=sharing) but please keep in mind that this presentation has not been updated since Feb 18th, 2021. For the latest info please read the following post. Questions and Suggestions? Email me at [jay@jayonsoftware.com](mailto:jay@jayonsoftware.com)
 
 This page will be updated every few weeks, if you want to be notified please signup by clicking [here](http://bit.ly/3bgYioH)

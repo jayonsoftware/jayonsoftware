@@ -38,7 +38,7 @@ Jay Janarthanan
 
 Each cert will take 80 to 160 hours of studying if you study properly \(See below on the proper way of studying\) and I can't do that when I am working 60 hour weeks. 
 
-If I pass all the SF certs, I set out to complete them. I will make the money I lost by not working. Already have job offers with a signing bonus that will pay back the investment and more.
+If I pass all the SF certs, I set out to complete them. I will make the income I lost by not working. 
 
 **Why am I teaching SF**?
 
@@ -48,9 +48,11 @@ Starting soon, I will be spending 16 hours a week teaching SF \(Admin, Dev, Vloc
 
 **Why Salesforce Certifications**
 
-If you are new to SF and want to learn about the Salesforce job market, please see
+If you are new to SF and want to learn to get into the Salesforce market, first see the following  video [https://www.youtube.com/watch?v=DoFy6ir\_CuI](https://www.youtube.com/watch?v=DoFy6ir_CuI) on why you should not learn SF. 
 
-[https://www.udemy.com/course/what-is-salesforce/](https://www.udemy.com/course/what-is-salesforce/)  
+Now watec these videos and read more on how big the SF market is.  
+
+[http://www.udemy.com/course/what-is-salesforce/](https://www.udemy.com/course/what-is-salesforce/)  
 [https://medium.com/trailhead/huge-demand-for-salesforce-talent-3bb30c597b39](https://medium.com/trailhead/huge-demand-for-salesforce-talent-3bb30c597b39)
 
 Certifications allow you to learn Salesforce if you study properly \(See below on the proper way of studying\)

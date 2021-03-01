@@ -114,13 +114,13 @@ YouTube
 [Mike Wheeler Media](https://mikewheelermedia.com/)  
 
 
-**Tools I use to study**
+**Tools I use to study everyda** 
 
   
 [Rain Drop ](https://raindrop.io/)– Bookmark Manager  
 
 
-[Brainscape ](https://www.brainscape.com/)– Flashcards  
+[Brainscape ](https://www.brainscape.com/)– Flashcards, a lot on Salesforce  
 
 
 [Mind Stone](https://www.mindstone.com/) – Note taking app that I use every day  

@@ -1,5 +1,7 @@
 # About Me
 
+
+
 ## 
 
 _“A great lathe operator commands several times the wage of an average lathe_ operator_, but a great writer of software code is worth 10,000 times the price of an average software writer.” – Bill Gates_

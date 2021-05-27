@@ -6,6 +6,8 @@ _“A great lathe operator commands several times the wage of an average lathe_ 
 
 _“90% of the code is written by 10% of the programmers.” – Robert C. Martin_
 
+\_\_
+
 Hi, welcome to JayOnSoftware
 
 My name is Jay Janarthanan, and I’ve been programming for about 25 years. I started this blog, so I can share a bit of what I’ve learned over these two decades. It’s also a spot to put cool stuff I find as I work on projects of all stripes.
